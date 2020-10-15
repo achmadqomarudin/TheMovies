@@ -14,7 +14,7 @@ Repo to demonstrate TheMovies in Android app. This is a follow up on the youtube
 
 # Demo App
 
-[Demo Download](https://github.com/achmadqomarudin/Infinite-Scroll/blob/master/screenshots/app-demo.apk)
+[Demo Download](https://github.com/achmadqomarudin/TheMovies/blob/master/screenshots/app-demo.apk)
 
 <table style="width:100%">
   <tr>
