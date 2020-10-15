@@ -10,7 +10,7 @@
 # Source
 Repo to demonstrate TheMovies in Android app. This is a follow up on the youtube at :
 
-[TheMovieDbB](https://youtu.be/xB8Ba-6mAaw)
+[TheMovieDB](https://youtu.be/xB8Ba-6mAaw)
 
 # Demo App
 
