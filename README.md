@@ -14,7 +14,11 @@ Repo to demonstrate TheMovies in Android app. This is a follow up on the youtube
 
 # Demo App
 
-[Demo Download](https://github.com/achmadqomarudin/TheMovies/blob/master/screenshots/app-demo.apk)
+<p align="center">
+  <a href="https://github.com/achmadqomarudin/TheMovies/releases/latest/download/app-demo.apk">
+    <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="100">
+  </a>
+</p>
 
 <table style="width:100%">
   <tr>
